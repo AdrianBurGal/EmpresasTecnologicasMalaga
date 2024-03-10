@@ -1,0 +1,27 @@
+.containerEnterprise {
+  margin: 30px;
+}
+
+.photo {
+  height: 600px;
+  width: 50%;
+  object-fit: cover;
+  border-radius: 30px;
+  float: right;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  margin-left: 20px;
+}
+
+.heading {
+  font-size: 48pt;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: var(--primary-color);
+}
+
+.location {
+  font-size: 20pt;
+  margin-bottom: 15px;
+}
+
+
